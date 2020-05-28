@@ -27,6 +27,12 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://mm1200.github.io/test/5-117-1-anon-0-a/canvas-1/canvas/sandbox.json",
+            "label": "sandbox"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://mm1200.github.io/test/5-117-1-anon-0-a/canvas-1/canvas/segments.json",
             "label": "segments"
           }

@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mm1200.github.io/test/5-117-1-anon-0-a/canvas-1/canvas/sandbox.json",
+  "type": "AnnotationPage",
+  "label": "sandbox",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://mm1200.github.io/test/5-117-1-anon-0-a/canvas-1/canvas/sandbox-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "test1",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://mm1200.github.io/test/5-117-1-anon-0-a/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.450209,138.540271"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://mm1200.github.io/test/5-117-1-anon-0-a/canvas-1/canvas/sandbox-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "what: why",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://mm1200.github.io/test/5-117-1-anon-0-a/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "120.073413,200.095660"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://mm1200.github.io/test/5-117-1-anon-0-a/canvas-1/canvas/sandbox-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "where will this show up",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://mm1200.github.io/test/5-117-1-anon-0-a/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "263.095660,321.666788"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://mm1200.github.io/test/5-117-1-anon-0-a/canvas-1/canvas/sandbox-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "ok",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://mm1200.github.io/test/5-117-1-anon-0-a/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "200.666788,300.591606"
+        }
+      }
+    }
+  ]
+}
