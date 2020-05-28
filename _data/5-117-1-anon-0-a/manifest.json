@@ -23,6 +23,14 @@
         "id": "https://mm1200.github.io/test/5-117-1-anon-0-a/canvas-1/canvas",
         "type": "Canvas",
         "duration": 396.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://mm1200.github.io/test/5-117-1-anon-0-a/canvas-1/canvas/segments.json",
+            "label": "segments"
+          }
+        ],
         "items": [
           {
             "id": "https://mm1200.github.io/test/5-117-1-anon-0-a/canvas-1/paintings",
